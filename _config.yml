@@ -1,0 +1,14 @@
+layout_spectrum: 0.5397978606633842
+typography_spectrum: 0.5780574819073081
+color:
+  brandStrength: 0.36667248141020536
+  lightness: 0.195710560772568
+  saturation: 0.738280218327418
+  rhythmicContrast: 0.989662361331284
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: Grid Demo
